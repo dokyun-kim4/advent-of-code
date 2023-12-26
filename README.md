@@ -52,4 +52,34 @@
 <a href="2023/16/day16.ipynb">
   <img src=".aoc_tiles/tiles/2023/16.png" width="161px">
 </a>
+<h1 align="center">
+  2022 - 18 ⭐
+</h1>
+<a href="2022/1/day_1.py">
+  <img src=".aoc_tiles/tiles/2022/01.png" width="161px">
+</a>
+<a href="2022/2/day_2.py">
+  <img src=".aoc_tiles/tiles/2022/02.png" width="161px">
+</a>
+<a href="2022/3/day_3.py">
+  <img src=".aoc_tiles/tiles/2022/03.png" width="161px">
+</a>
+<a href="2022/4/day_4.py">
+  <img src=".aoc_tiles/tiles/2022/04.png" width="161px">
+</a>
+<a href="2022/5/day_5_part1.py">
+  <img src=".aoc_tiles/tiles/2022/05.png" width="161px">
+</a>
+<a href="2022/6/day_6.py">
+  <img src=".aoc_tiles/tiles/2022/06.png" width="161px">
+</a>
+<a href="2022/7/day_7.py">
+  <img src=".aoc_tiles/tiles/2022/07.png" width="161px">
+</a>
+<a href="2022/8/day_8_part1.py">
+  <img src=".aoc_tiles/tiles/2022/08.png" width="161px">
+</a>
+<a href="2022/9/day_9_part1.py">
+  <img src=".aoc_tiles/tiles/2022/09.png" width="161px">
+</a>
 <!-- AOC TILES END -->
