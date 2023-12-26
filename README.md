@@ -2,7 +2,7 @@
 
 <!-- AOC TILES BEGIN -->
 <h1 align="center">
-  2023 - 30 ⭐
+  2023 - 28 ⭐
 </h1>
 <a href="2023/1/day1.ipynb">
   <img src=".aoc_tiles/tiles/2023/01.png" width="161px">
@@ -52,34 +52,31 @@
 <a href="2023/16/day16.ipynb">
   <img src=".aoc_tiles/tiles/2023/16.png" width="161px">
 </a>
-<h1 align="center">
-  2022 - 18 ⭐
-</h1>
-<a href="2022/1/day_1.py">
-  <img src=".aoc_tiles/tiles/2022/01.png" width="161px">
+<a href="None">
+  <img src=".aoc_tiles/tiles/2023/17.png" width="161px">
 </a>
-<a href="2022/2/day_2.py">
-  <img src=".aoc_tiles/tiles/2022/02.png" width="161px">
+<a href="None">
+  <img src=".aoc_tiles/tiles/2023/18.png" width="161px">
 </a>
-<a href="2022/3/day_3.py">
-  <img src=".aoc_tiles/tiles/2022/03.png" width="161px">
+<a href="None">
+  <img src=".aoc_tiles/tiles/2023/19.png" width="161px">
 </a>
-<a href="2022/4/day_4.py">
-  <img src=".aoc_tiles/tiles/2022/04.png" width="161px">
+<a href="None">
+  <img src=".aoc_tiles/tiles/2023/20.png" width="161px">
 </a>
-<a href="2022/5/day_5_part1.py">
-  <img src=".aoc_tiles/tiles/2022/05.png" width="161px">
+<a href="None">
+  <img src=".aoc_tiles/tiles/2023/21.png" width="161px">
 </a>
-<a href="2022/6/day_6.py">
-  <img src=".aoc_tiles/tiles/2022/06.png" width="161px">
+<a href="None">
+  <img src=".aoc_tiles/tiles/2023/22.png" width="161px">
 </a>
-<a href="2022/7/day_7.py">
-  <img src=".aoc_tiles/tiles/2022/07.png" width="161px">
+<a href="None">
+  <img src=".aoc_tiles/tiles/2023/23.png" width="161px">
 </a>
-<a href="2022/8/day_8_part1.py">
-  <img src=".aoc_tiles/tiles/2022/08.png" width="161px">
+<a href="None">
+  <img src=".aoc_tiles/tiles/2023/24.png" width="161px">
 </a>
-<a href="2022/9/day_9_part1.py">
-  <img src=".aoc_tiles/tiles/2022/09.png" width="161px">
+<a href="None">
+  <img src=".aoc_tiles/tiles/2023/25.png" width="161px">
 </a>
 <!-- AOC TILES END -->
